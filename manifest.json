@@ -10,7 +10,8 @@
             ],
             "js": [
                 "script.js"
-            ]
+            ],
+            "all_frames": true
         }
     ]
 }
